@@ -1,0 +1,134 @@
+{
+  "name": "skills",
+  "version": "2.0.0",
+  "description": "Comprehensive agentic engineering skills library — 87+ specialized AI agent skills covering data engineering, frontend, financial analysis, document generation, DevOps, and more. Managed via Antigravity.",
+  "author": {
+    "name": "miptah21"
+  },
+  "repository": "https://github.com/miptah21/skills",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "agentic-ai",
+    "antigravity",
+    "dataops",
+    "dbt",
+    "snowflake",
+    "airflow",
+    "data-engineering",
+    "frontend",
+    "react",
+    "nextjs",
+    "financial-analysis",
+    "document-generation",
+    "devops",
+    "observability"
+  ],
+  "skills_count": 87,
+  "skill_categories": {
+    "dbt_snowflake": [
+      "creating-dbt-models",
+      "debugging-dbt-errors",
+      "developing-incremental-models",
+      "documenting-dbt-models",
+      "migrating-sql-to-dbt",
+      "refactoring-dbt-models",
+      "testing-dbt-models",
+      "finding-expensive-queries",
+      "optimizing-query-by-id",
+      "optimizing-query-text",
+      "sql-queries"
+    ],
+    "orchestration": [
+      "airflow",
+      "airflow-hitl",
+      "airflow-plugins",
+      "authoring-dags",
+      "blueprint",
+      "debugging-dags",
+      "deploying-airflow",
+      "testing-dags",
+      "cosmos-dbt-core",
+      "cosmos-dbt-fusion"
+    ],
+    "astronomer": [
+      "managing-astro-local-env",
+      "managing-astro-deployments",
+      "setting-up-astro-project",
+      "troubleshooting-astro-deployments"
+    ],
+    "data_analysis": [
+      "analyzing-data",
+      "statistical-analysis",
+      "data-visualization",
+      "data-storytelling",
+      "powerbi-modeling"
+    ],
+    "lineage_observability": [
+      "tracing-upstream-lineage",
+      "tracing-downstream-lineage",
+      "annotating-task-lineage",
+      "creating-openlineage-extractors",
+      "data-observability",
+      "checking-freshness",
+      "profiling-tables",
+      "warehouse-init"
+    ],
+    "finance": [
+      "analyzing-financial-statements",
+      "creating-financial-models",
+      "variance-analysis",
+      "reconciliation"
+    ],
+    "documents": [
+      "docx",
+      "pptx",
+      "pdf",
+      "xlsx",
+      "excalidraw-diagram-generator",
+      "canvas-design",
+      "algorithmic-art",
+      "image-manipulation-image-magick",
+      "prd"
+    ],
+    "engineering": [
+      "python-expert",
+      "clean-code",
+      "refactor",
+      "ci-cd-pipeline-builder",
+      "git-workflow",
+      "pr-review-expert",
+      "tech-debt-tracker",
+      "dependency-auditor",
+      "security-auditor",
+      "performance-profiler",
+      "uv-package-manager",
+      "worktree-manager",
+      "database-design"
+    ],
+    "frontend_web": [
+      "frontend-design",
+      "web-design-guidelines",
+      "react-patterns",
+      "react-useeffect",
+      "nextjs-best-practices",
+      "seo-optimizer",
+      "payload",
+      "playwright",
+      "webapp-testing",
+      "chrome-devtools"
+    ],
+    "research": [
+      "deep-research",
+      "agentic-eval",
+      "skill-writer",
+      "ag-md-improver"
+    ],
+    "infrastructure": [
+      "cloud-finops",
+      "pipeline-orchestration",
+      "data-governance",
+      "rca-diagnostics"
+    ]
+  }
+}

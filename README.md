@@ -1,0 +1,62 @@
+# 🧠 Agentic Engineering Skills Library
+
+A curated collection of **87+ specialized AI agent skills** for [Antigravity](https://antigravity.dev), an advanced agentic AI coding assistant. Skills cover the full engineering stack — from data engineering to frontend development to financial analysis.
+
+## 🏗️ Architecture
+
+```
+AGENTS.md                    ← Master routing (Intent Gate + Ambiguity Check)
+├── .agents/
+│   ├── plugin.json          ← Registry metadata
+│   ├── skills/
+│   │   ├── CONTEXT.md       ← Shared vocabulary & conventions
+│   │   ├── README.md        ← Categorized skills index
+│   │   ├── <skill>/
+│   │   │   ├── SKILL.md     ← Core instructions (≤250 lines)
+│   │   │   └── references/  ← Heavy examples, templates, schemas
+│   │   ├── _deprecated/     ← Retired skills
+│   │   └── _vendor-stubs/   ← Unresolved vendor symlinks
+│   └── workflows/           ← Situational workflow guides
+└── docs/                    ← Agent convention docs
+```
+
+## 📚 Skill Categories
+
+| Category | Skills | Highlights |
+|----------|--------|------------|
+| **Data Engineering** | 17 | dbt, Snowflake, SQL queries, incremental models |
+| **Orchestration** | 10 | Airflow, Blueprint, Cosmos, DAG testing |
+| **Astronomer** | 4 | Astro CLI, deployments, local env |
+| **Data Analysis** | 5 | Statistics, visualization, storytelling, Power BI |
+| **Lineage & Observability** | 8 | OpenLineage, freshness, profiling |
+| **Finance** | 4 | DCF, variance analysis, reconciliation |
+| **Documents** | 9 | docx, pptx, pdf, xlsx, Excalidraw, canvas |
+| **Engineering** | 13 | Python, CI/CD, git, security, refactoring |
+| **Frontend/Web** | 10 | React, Next.js, Payload CMS, SEO, Playwright |
+| **Research** | 4 | Deep research, agentic eval, skill writer |
+| **Infrastructure** | 3 | FinOps, governance, RCA diagnostics |
+
+## 🎯 Design Principles
+
+- **Progressive Disclosure** — `AGENTS.md` → `README.md` → `SKILL.md` → `references/`
+- **Token Efficiency** — Core skill files stay lean; heavy content lives in `references/`
+- **agentskills.io Compliant** — Follows the open standard for agent skill packages
+- **Intent Gate** — Every request is classified before action (Trivial / Explicit / Exploratory / Open-ended / Ambiguous)
+
+## 🚀 Usage
+
+1. Copy `.agents/` into your project root
+2. Copy `AGENTS.md` to your project root
+3. Your AI agent will auto-detect and route tasks to the right skill
+
+## 📋 Conventions
+
+See `docs/` for detailed guides:
+- `implementation-protocol.md` — Pre-implementation checks & verification
+- `communication-style.md` — Agent communication standards
+- `rtk-optimization.md` — Token compression (60-90% reduction)
+- `comment-policy.md` — When comments are acceptable
+
+## 📄 License
+
+MIT
