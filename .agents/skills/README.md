@@ -160,6 +160,9 @@
 | [caveman](caveman/SKILL.md) | Ultra-compressed communication mode. Cuts token usage ~75% |
 | [grill-me](grill-me/SKILL.md) | Relentless interviewing to resolve every branch of a decision tree |
 | [handoff](handoff/SKILL.md) | Compact current session into a context handoff doc for next agent |
+| [writing-fragments](writing-fragments/SKILL.md) | Grilling session to mine for raw material and sharp ideas |
+| [writing-shape](writing-shape/SKILL.md) | Shape raw material into a drafted article, block by block |
+| [writing-beats](writing-beats/SKILL.md) | Choose-your-own-adventure style article generation from notes |
 
 ## Background Knowledge (non-invocable)
 

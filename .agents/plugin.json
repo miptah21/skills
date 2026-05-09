@@ -24,7 +24,7 @@
     "devops",
     "observability"
   ],
-  "skills_count": 100,
+  "skills_count": 103,
   "skill_categories": {
     "dbt_snowflake": [
       "creating-dbt-models",
@@ -135,7 +135,10 @@
       "skill-writer",
       "ag-md-improver",
       "grill-me",
-      "handoff"
+      "handoff",
+      "writing-fragments",
+      "writing-shape",
+      "writing-beats"
     ],
     "infrastructure": [
       "cloud-finops",
