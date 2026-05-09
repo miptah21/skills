@@ -54,6 +54,21 @@ AGENTS.md                    ← Master routing (Intent Gate + Ambiguity Check)
 - Any agentic assistant compatible with markdown-based instruction protocols (e.g., [Antigravity](https://antigravity.dev), [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code), [Cursor](https://cursor.sh), [Cline](https://github.com/cline/cline), or [Codex](https://openai.com/index/openai-codex/)).
 
 ### Installation
+
+**Method 1: Using the skills CLI (Recommended)**
+The easiest way to install and manage these skills across any AI agent (Claude Code, Cursor, Windsurf, Cline, etc.) is using the open-source `skills` CLI.
+
+To install the entire collection:
+```bash
+npx skills@latest add miptah21/skills
+```
+
+To install a specific skill (e.g., frontend design):
+```bash
+npx skills@latest add miptah21/skills/frontend-design
+```
+
+**Method 2: Manual Installation**
 1. Copy the `.agents/` directory into your project root.
 2. Copy `AGENTS.md` to your project root (acts as the main rule/routing file for your AI).
 3. Your AI agent will automatically detect the registry and route your natural language requests to the appropriate skill.
