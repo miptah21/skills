@@ -1,6 +1,6 @@
 # 🧠 Agentic Engineering Skills Library
 
-A curated collection of **101 specialized AI agent skills** for [Antigravity](https://antigravity.dev), an advanced agentic AI coding assistant. Skills cover the full engineering stack — from data engineering to frontend development to financial analysis.
+A curated collection of **103 specialized AI agent skills** for [Antigravity](https://antigravity.dev), an advanced agentic AI coding assistant. Skills cover the full engineering stack — from data engineering to frontend development to financial analysis.
 
 ## 🏗️ Architecture
 
@@ -31,7 +31,7 @@ AGENTS.md                    ← Master routing (Intent Gate + Ambiguity Check)
 | **Finance** | 4 | DCF, variance analysis, reconciliation |
 | **Documents** | 10 | docx, pptx, pdf, xlsx, Excalidraw, canvas, edit-article |
 | **Engineering** | 24 | Python, CI/CD, git, security, refactoring, TDD, architecture |
-| **Frontend/Web** | 10 | React, Next.js, Payload CMS, SEO, Playwright |
+| **Frontend/Web** | 12 | React, Next.js, Payload CMS, SEO, Playwright, performance, web audits |
 | **Research & Productivity** | 10 | Deep research, writing pipeline, Obsidian, handoffs |
 | **Infrastructure** | 4 | FinOps, governance, RCA diagnostics |
 

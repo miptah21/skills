@@ -134,6 +134,8 @@
 | [playwright](playwright/SKILL.md) | Browser automation, E2E testing via terminal |
 | [webapp-testing](webapp-testing/SKILL.md) | Playwright-based local UI debugging, screenshots |
 | [chrome-devtools](chrome-devtools/SKILL.md) | Chrome DevTools MCP, network profiling, debugging |
+| [frontend-performance](frontend-performance/SKILL.md) | Core Web Vitals, Lighthouse, bundle size, profiling |
+| [web-quality-audit](web-quality-audit/SKILL.md) | Web quality audit, performance, a11y, SEO, best practices |
 
 ## Document Generation
 
