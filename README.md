@@ -1,10 +1,15 @@
 # 🧠 Agentic Engineering Skills Library
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Skills: 103](https://img.shields.io/badge/Skills-103-success.svg)](.agents/skills)
+[![Format: agentskills.io](https://img.shields.io/badge/Format-agentskills.io-yellow.svg)](https://agentskills.io)
+[![Agent: Antigravity](https://img.shields.io/badge/Agent-Antigravity-purple.svg)](https://antigravity.dev)
+
 A curated collection of **103 specialized AI agent skills** for [Antigravity](https://antigravity.dev), an advanced agentic AI coding assistant. Skills cover the full engineering stack — from data engineering to frontend development to financial analysis.
 
 ## 🏗️ Architecture
 
-```
+```text
 AGENTS.md                    ← Master routing (Intent Gate + Ambiguity Check)
 ├── .agents/
 │   ├── plugin.json          ← Registry metadata
@@ -21,8 +26,8 @@ AGENTS.md                    ← Master routing (Intent Gate + Ambiguity Check)
 
 ## 📚 Skill Categories
 
-| Category | Skills | Highlights |
-|----------|--------|------------|
+| Category | Skills | Key Technologies / Domains |
+|----------|--------|----------------------------|
 | **Data Engineering** | 11 | dbt, Snowflake, SQL queries, incremental models |
 | **Orchestration** | 11 | Airflow, Blueprint, Cosmos, DAG testing, migration |
 | **Astronomer** | 4 | Astro CLI, deployments, local env |
@@ -44,9 +49,21 @@ AGENTS.md                    ← Master routing (Intent Gate + Ambiguity Check)
 
 ## 🚀 Usage
 
-1. Copy `.agents/` into your project root
-2. Copy `AGENTS.md` to your project root
-3. Your AI agent will auto-detect and route tasks to the right skill
+### Prerequisites
+- An agentic assistant compatible with the `.agents` protocol (e.g., [Antigravity](https://antigravity.dev) or [Smithery](https://smithery.ai)).
+
+### Installation
+1. Copy the `.agents/` directory into your project root.
+2. Copy `AGENTS.md` to your project root.
+3. Your AI agent will automatically detect the registry and route your requests to the appropriate skill.
+
+## 🤝 Contributing
+
+We welcome additions to the library! To maintain our token efficiency and structural integrity:
+1. Trigger the `skill-writer` agent skill to help you draft the new skill conforming to our conventions.
+2. Ensure the `SKILL.md` is strictly **under 250 lines**. Place any dense reference material in a `references/` subdirectory.
+3. Register the new skill by updating the `skills_count` and `skill_categories` inside `.agents/plugin.json`.
+4. Update this `README.md` and `.agents/skills/README.md` to reflect the new counts.
 
 ## 📋 Conventions
 
