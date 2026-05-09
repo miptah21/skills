@@ -12,6 +12,7 @@
 2. Do not claim correctness you haven't verified
 3. Do not handle only the happy path
 4. Under what conditions does this work?
+5. **Check for Stale Context:** Before importing, modifying, or copying a skill, verify it does not contain hardcoded references to specific business domains, project names, or applications (e.g., 'HR Analytics'). Keep skills purely functional and domain-agnostic.
 
 **Planning:**
 1. If task has 2+ steps → create a structured plan first

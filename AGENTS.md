@@ -39,6 +39,7 @@ When running terminal commands to analyze the workspace, you MUST prefix them wi
 
 ## Coding Style, Standards & Boundaries
 > **Single source of truth:** See `.agents/skills/CONTEXT.md` for all coding conventions, architecture context, and "Don't Touch" boundaries.
+> **Skill Size Constraints:** A `SKILL.md` file must rarely exceed 250 lines. Any exhaustive tables, advanced schemas, or dialect-specific references MUST be placed in a `references/` directory next to the skill and linked via a `> **Reference:**` block.
 
 ## Detailed Conventions
 See `docs/` for in-depth guides:
