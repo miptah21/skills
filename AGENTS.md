@@ -1,7 +1,7 @@
 # Antigravity AGENTS.md
 
 ## Project Overview
-This repository is a comprehensive **Agentic Engineering Skills Library** — a curated collection of 103 specialized AI agent skills compatible with modern AI coding assistants (Antigravity, Claude Code, Cursor, Cline, etc.). Skills cover the full engineering stack: data engineering (dbt, Airflow, Snowflake), frontend (React, Next.js), financial analysis, document generation, DevOps, and more.
+This repository is a comprehensive **Agentic Engineering Skills Library** — a curated collection of 103 specialized AI agent skills compatible with modern AI coding assistants (Antigravity, Claude Code, Cursor, Cline, Codex, etc.). Skills cover the full engineering stack: data engineering (dbt, Airflow, Snowflake), frontend (React, Next.js), financial analysis, document generation, DevOps, and more.
 
 ## Core Agent Behavior & Interaction
 - **Progressive Disclosure:** Do not assume context. When interacting with this repository, always rely on the specialized skills stored in `.agents/skills/`. Read the `SKILL.md` of the relevant skill before executing complex tasks.

@@ -5,7 +5,7 @@
 [![Format: agentskills.io](https://img.shields.io/badge/Format-agentskills.io-yellow.svg)](https://agentskills.io)
 [![Compatibility: Universal](https://img.shields.io/badge/Compatibility-Universal_Agents-purple.svg)](#)
 
-A curated collection of **103 specialized AI agent skills** originally designed for [Antigravity](https://antigravity.dev), but fully compatible with **Claude Code, Cursor, Cline, Aider**, and any other agentic AI assistants. Skills cover the full engineering stack — from data engineering to frontend development to financial analysis.
+A curated collection of **103 specialized AI agent skills** originally designed for [Antigravity](https://antigravity.dev), but fully compatible with **Claude Code, Cursor, Cline, Codex, Aider**, and any other agentic AI assistants. Skills cover the full engineering stack — from data engineering to frontend development to financial analysis.
 
 ## 🏗️ Architecture
 
@@ -50,7 +50,7 @@ AGENTS.md                    ← Master routing (Intent Gate + Ambiguity Check)
 ## 🚀 Usage
 
 ### Prerequisites
-- Any agentic assistant compatible with markdown-based instruction protocols (e.g., [Antigravity](https://antigravity.dev), [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code), [Cursor](https://cursor.sh), [Cline](https://github.com/cline/cline), or [Smithery](https://smithery.ai)).
+- Any agentic assistant compatible with markdown-based instruction protocols (e.g., [Antigravity](https://antigravity.dev), [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code), [Cursor](https://cursor.sh), [Cline](https://github.com/cline/cline), Codex, or [Smithery](https://smithery.ai)).
 
 ### Installation
 1. Copy the `.agents/` directory into your project root.
