@@ -3,9 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Skills: 103](https://img.shields.io/badge/Skills-103-success.svg)](.agents/skills)
 [![Format: agentskills.io](https://img.shields.io/badge/Format-agentskills.io-yellow.svg)](https://agentskills.io)
-[![Agent: Antigravity](https://img.shields.io/badge/Agent-Antigravity-purple.svg)](https://antigravity.dev)
+[![Compatibility: Universal](https://img.shields.io/badge/Compatibility-Universal_Agents-purple.svg)](#)
 
-A curated collection of **103 specialized AI agent skills** for [Antigravity](https://antigravity.dev), an advanced agentic AI coding assistant. Skills cover the full engineering stack — from data engineering to frontend development to financial analysis.
+A curated collection of **103 specialized AI agent skills** originally designed for [Antigravity](https://antigravity.dev), but fully compatible with **Claude Code, Cursor, Cline, Aider**, and any other agentic AI assistants. Skills cover the full engineering stack — from data engineering to frontend development to financial analysis.
 
 ## 🏗️ Architecture
 
@@ -50,12 +50,12 @@ AGENTS.md                    ← Master routing (Intent Gate + Ambiguity Check)
 ## 🚀 Usage
 
 ### Prerequisites
-- An agentic assistant compatible with the `.agents` protocol (e.g., [Antigravity](https://antigravity.dev) or [Smithery](https://smithery.ai)).
+- Any agentic assistant compatible with markdown-based instruction protocols (e.g., [Antigravity](https://antigravity.dev), [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code), [Cursor](https://cursor.sh), [Cline](https://github.com/cline/cline), or [Smithery](https://smithery.ai)).
 
 ### Installation
 1. Copy the `.agents/` directory into your project root.
-2. Copy `AGENTS.md` to your project root.
-3. Your AI agent will automatically detect the registry and route your requests to the appropriate skill.
+2. Copy `AGENTS.md` to your project root (acts as the main rule/routing file for your AI).
+3. Your AI agent will automatically detect the registry and route your natural language requests to the appropriate skill.
 
 ## 🤝 Contributing
 
