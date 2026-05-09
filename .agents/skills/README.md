@@ -113,6 +113,9 @@
 | [improve-codebase-architecture](improve-codebase-architecture/SKILL.md) | Architectural depth, uncouple modules, find seams |
 | [tdd](tdd/SKILL.md) | Strict red-green-refactor loop for application code |
 | [diagnose](diagnose/SKILL.md) | Rigorous debugging loop (reproduce, minimise, instrument) |
+| [prototype](prototype/SKILL.md) | Build throwaway terminal logic or UI variants to answer design questions |
+| [to-issues](to-issues/SKILL.md) | Break plans into independently-grabbable vertical slice GitHub issues |
+| [setup-pre-commit](setup-pre-commit/SKILL.md) | Husky, lint-staged, prettier, and typecheck hooks |
 
 ## Frontend & Web Development
 
@@ -151,6 +154,7 @@
 | [agentic-eval](agentic-eval/SKILL.md) | Self-critique, evaluator-optimizer, quality loops |
 | [skill-writer](skill-writer/SKILL.md) | Create/author new SKILL.md files, skill structure |
 | [ag-md-improver](ag-md-improver/SKILL.md) | Audit and improve AGENTS.md files |
+| [caveman](caveman/SKILL.md) | Ultra-compressed communication mode. Cuts token usage ~75% |
 
 ## Background Knowledge (non-invocable)
 

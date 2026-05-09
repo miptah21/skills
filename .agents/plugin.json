@@ -24,7 +24,7 @@
     "devops",
     "observability"
   ],
-  "skills_count": 91,
+  "skills_count": 95,
   "skill_categories": {
     "dbt_snowflake": [
       "creating-dbt-models",
@@ -108,7 +108,11 @@
       "grill-with-docs",
       "improve-codebase-architecture",
       "tdd",
-      "diagnose"
+      "diagnose",
+      "prototype",
+      "to-issues",
+      "setup-pre-commit",
+      "caveman"
     ],
     "frontend_web": [
       "frontend-design",
