@@ -5,7 +5,6 @@ description: |
   Use when: conducting in-depth research, gathering sources, writing research summaries, analyzing topics
   from multiple perspectives, or when user mentions research, investigation, or needs synthesized analysis
   with citations.
-license: MIT
 metadata:
   author: awesome-llm-apps
   version: "1.0.0"

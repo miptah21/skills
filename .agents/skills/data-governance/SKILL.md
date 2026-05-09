@@ -5,7 +5,6 @@ description: |
   Use when: implementing RBAC/RLS policies, defining data contracts between producers and consumers, handling PII/PHI masking, GDPR/CCPA compliance, or managing data ownership.
   Do NOT use for dbt model documentation — use `documenting-dbt-models` instead.
   Do NOT use for data lineage tracing — use `tracing-upstream-lineage` or `tracing-downstream-lineage` instead.
-license: MIT
 metadata:
   author: dataops-agent
   version: "2.0.0"

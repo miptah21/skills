@@ -5,7 +5,6 @@ description: |
   Use when: writing Python code, optimizing Python scripts, reviewing Python code for best practices,
   debugging Python issues, implementing type hints, or when user mentions Python, PEP 8, or needs help
   with Python data structures and algorithms.
-license: MIT
 metadata:
   author: awesome-llm-apps
   version: "1.0.0"

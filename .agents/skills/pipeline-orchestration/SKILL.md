@@ -5,7 +5,6 @@ description: |
   Use when: the user mentions Dagster, Prefect, Luigi, or custom pipeline orchestration.
   Do NOT use for Airflow — use `airflow` or `authoring-dags` instead.
   Do NOT use for dbt — use `creating-dbt-models` or `developing-incremental-models` instead.
-license: MIT
 metadata:
   author: dataops-agent
   version: "2.0.0"

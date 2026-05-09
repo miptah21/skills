@@ -5,7 +5,6 @@ description: |
   Use when: setting up Great Expectations suites, Soda checks, custom SQL quality monitors, schema drift detection, or anomaly detection logic.
   Do NOT use for dbt-specific tests — use `testing-dbt-models` instead.
   Do NOT use for data freshness spot-checks — use `checking-freshness` instead.
-license: MIT
 metadata:
   author: dataops-agent
   version: "2.0.0"

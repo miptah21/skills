@@ -200,4 +200,3 @@ Workflows are situational guides in `.agents/workflows/`. Agents detect matching
 | Folder | Purpose |
 |--------|---------|
 | `_deprecated/` | Retired skills — do NOT use |
-| `_vendor-stubs/` | Unresolved vendor symlinks — not functional |

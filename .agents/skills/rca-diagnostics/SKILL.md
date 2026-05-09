@@ -5,7 +5,6 @@ description: |
   Use when: investigating MULTI-system failures, correlating failures across infra + data + code, writing post-mortem reports, or diagnosing cascading failures.
   Do NOT use for single Airflow DAG failures — use `debugging-dags` instead.
   Do NOT use for single dbt model errors — use `debugging-dbt-errors` instead.
-license: MIT
 metadata:
   author: dataops-agent
   version: "2.0.0"

@@ -5,7 +5,6 @@ description: |
   Use when: rightsizing warehouses, configuring auto-suspend policies, optimizing storage formats, setting budget alerts, or forecasting cloud spend.
   Do NOT use for query-level cost analysis — use `finding-expensive-queries` instead.
   Do NOT use for optimizing individual SQL queries — use `optimizing-query-text` or `optimizing-query-by-id` instead.
-license: MIT
 metadata:
   author: dataops-agent
   version: "2.0.0"

@@ -15,7 +15,6 @@ AGENTS.md                    ← Master routing (Intent Gate + Ambiguity Check)
 │   │   │   ├── SKILL.md     ← Core instructions (≤250 lines)
 │   │   │   └── references/  ← Heavy examples, templates, schemas
 │   │   ├── _deprecated/     ← Retired skills
-│   │   └── _vendor-stubs/   ← Unresolved vendor symlinks
 │   └── workflows/           ← Situational workflow guides
 └── docs/                    ← Agent convention docs
 ```
@@ -65,4 +64,4 @@ The following **skills** also act as foundational project conventions:
 
 ## 📄 License
 
-MIT
+This repository is completely open-source under the [MIT License](LICENSE).
