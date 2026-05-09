@@ -24,7 +24,7 @@
     "devops",
     "observability"
   ],
-  "skills_count": 101,
+  "skills_count": 103,
   "skill_categories": {
     "dbt_snowflake": [
       "creating-dbt-models",
@@ -129,7 +129,9 @@
       "payload",
       "playwright",
       "webapp-testing",
-      "chrome-devtools"
+      "chrome-devtools",
+      "frontend-performance",
+      "web-quality-audit"
     ],
     "research": [
       "deep-research",
