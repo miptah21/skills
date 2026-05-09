@@ -48,6 +48,12 @@ See `docs/` for in-depth guides:
 - `docs/rtk-optimization.md` — RTK command mapping reference
 - `docs/comment-policy.md` — When comments are acceptable vs unacceptable
 
+The following **skills** also act as foundational project conventions:
+- `clean-code` — Pragmatic coding standards (SRP, DRY, KISS, YAGNI)
+- `git-workflow` — Repository standards for commits, branches, and PRs
+- `tdd` — Test-Driven Development lifecycle (Red-Green-Refactor)
+- `git-guardrails-claude-code` — Safety conventions preventing destructive git operations
+
 ## Hard Blocks (NEVER violate)
 
 | Constraint | No Exceptions |

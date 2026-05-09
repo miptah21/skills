@@ -57,6 +57,12 @@ See `docs/` for detailed guides:
 - `rtk-optimization.md` — Token compression (60-90% reduction)
 - `comment-policy.md` — When comments are acceptable
 
+The following **skills** also act as foundational project conventions:
+- `clean-code` — Pragmatic coding standards (SRP, DRY, KISS, YAGNI)
+- `git-workflow` — Repository standards for commits, branches, and PRs
+- `tdd` — Test-Driven Development lifecycle (Red-Green-Refactor)
+- `git-guardrails-claude-code` — Safety conventions preventing destructive git operations
+
 ## 📄 License
 
 MIT
