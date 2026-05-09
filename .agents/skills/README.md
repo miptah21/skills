@@ -53,8 +53,8 @@
 | [airflow-plugins](airflow-plugins/SKILL.md) | FastAPI apps, custom UI pages, React in Airflow 3.1+ |
 | [blueprint](blueprint/SKILL.md) | Reusable task group templates, YAML DAG composition |
 | [managing-astro-local-env](managing-astro-local-env/SKILL.md) | Start/stop/restart local Airflow, view logs |
-| [managing-astro-deployments](managing-astro-deployments/skill.md) | Authenticate, create/update/delete deployments |
-| [troubleshooting-astro-deployments](troubleshooting-astro-deployments/skill.md) | Production issue diagnosis, deployment logs |
+| [managing-astro-deployments](managing-astro-deployments/SKILL.md) | Authenticate, create/update/delete deployments |
+| [troubleshooting-astro-deployments](troubleshooting-astro-deployments/SKILL.md) | Production issue diagnosis, deployment logs |
 | [setting-up-astro-project](setting-up-astro-project/SKILL.md) | Initialize new Astro projects, configure connections |
 
 ## Cosmos & dbt-Airflow Integration
