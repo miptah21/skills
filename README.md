@@ -4,6 +4,7 @@
 [![Skills: 103](https://img.shields.io/badge/Skills-103-success.svg)](.agents/skills)
 [![Format: agentskills.io](https://img.shields.io/badge/Format-agentskills.io-yellow.svg)](https://agentskills.io)
 [![Compatibility: Universal](https://img.shields.io/badge/Compatibility-Universal_Agents-purple.svg)](#)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/miptah21/skills)
 
 A curated collection of **103 specialized AI agent skills** originally designed for [Antigravity](https://antigravity.dev), but fully compatible with **Claude Code, Cursor, Cline, Codex, Aider**, and any other agentic AI assistants. Skills cover the full engineering stack — from data engineering to frontend development to financial analysis.
 
