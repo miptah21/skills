@@ -24,7 +24,7 @@
     "devops",
     "observability"
   ],
-  "skills_count": 87,
+  "skills_count": 91,
   "skill_categories": {
     "dbt_snowflake": [
       "creating-dbt-models",
@@ -104,7 +104,11 @@
       "performance-profiler",
       "uv-package-manager",
       "worktree-manager",
-      "database-design"
+      "database-design",
+      "grill-with-docs",
+      "improve-codebase-architecture",
+      "tdd",
+      "diagnose"
     ],
     "frontend_web": [
       "frontend-design",

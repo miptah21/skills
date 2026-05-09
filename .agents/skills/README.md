@@ -109,6 +109,10 @@
 | [uv-package-manager](uv-package-manager/SKILL.md) | uv for Python deps, virtual environments |
 | [worktree-manager](worktree-manager/SKILL.md) | Git worktrees, parallel development branches |
 | [database-design](database-design/SKILL.md) | Schema design, indexing, ORM, serverless databases |
+| [grill-with-docs](grill-with-docs/SKILL.md) | Agent alignment, relentless questioning, inline ADRs |
+| [improve-codebase-architecture](improve-codebase-architecture/SKILL.md) | Architectural depth, uncouple modules, find seams |
+| [tdd](tdd/SKILL.md) | Strict red-green-refactor loop for application code |
+| [diagnose](diagnose/SKILL.md) | Rigorous debugging loop (reproduce, minimise, instrument) |
 
 ## Frontend & Web Development
 
