@@ -159,6 +159,7 @@
 | [ag-md-improver](ag-md-improver/SKILL.md) | Audit and improve AGENTS.md files |
 | [caveman](caveman/SKILL.md) | Ultra-compressed communication mode. Cuts token usage ~75% |
 | [grill-me](grill-me/SKILL.md) | Relentless interviewing to resolve every branch of a decision tree |
+| [handoff](handoff/SKILL.md) | Compact current session into a context handoff doc for next agent |
 
 ## Background Knowledge (non-invocable)
 
