@@ -68,8 +68,10 @@ To install a specific skill (e.g., frontend design):
 npx skills@latest add miptah21/skills/frontend-design
 ```
 
+*Note: After running the CLI, you must also manually copy `AGENTS.md`, the `docs/` directory, the `.agents/workflows/` directory, and the `.agents/plugin.json` file into your project root to properly initialize agent routing and conventions. If your project already has a `docs/` folder, simply merge the contents without overwriting existing files.*
+
 **Method 2: Manual Installation**
-1. Copy the `.agents/` and `docs/` directories into your project root.
+1. Merge the `.agents/` and `docs/` directories into your project root (do not overwrite existing files if you already have a `docs/` folder).
 2. Copy `AGENTS.md` to your project root (acts as the main rule/routing file for your AI).
 3. Your AI agent will automatically detect the registry and route your natural language requests to the appropriate skill.
 
@@ -77,7 +79,7 @@ npx skills@latest add miptah21/skills/frontend-design
 Copy and paste this prompt to your AI agent (Claude Code, Cursor, Cline, etc.) to have it set up the skills automatically:
 
 ```text
-Please install the `miptah21/skills` library into this repository. Run `npx skills@latest add miptah21/skills` in the terminal to add the full collection. Once complete, verify the setup by confirming that the `.agents` folder and `AGENTS.md` file were created in the root directory. Also, ensure that you fetch the `docs/` directory from the repository as it contains the required agent conventions.
+Please initialize the `miptah21/skills` library in this repository. To ensure all configuration files, workflows, and skills are perfectly copied, please run a terminal command to clone `https://github.com/miptah21/skills.git` into a temporary folder (e.g., `/tmp/temp-skills`). Then, carefully copy the `.agents/` and `docs/` directories, as well as the `AGENTS.md` file, into the root of this project. If a `docs/` folder already exists, merge the contents rather than overwriting the folder. After copying, update the `.gitignore` file to ignore these newly added agent folders and files (e.g., add `.agents/`, `docs/`, and `AGENTS.md` to `.gitignore`). Finally, clean up by deleting the temporary folder. Verify the setup is complete by checking that these files exist in the root directory.
 ```
 
 ## 🤝 Contributing
