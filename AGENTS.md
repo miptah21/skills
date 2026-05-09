@@ -1,7 +1,7 @@
 # Antigravity AGENTS.md
 
 ## Project Overview
-This repository is a comprehensive **Agentic Engineering Skills Library** — a curated collection of 105 specialized AI agent skills managed via Antigravity. Skills cover the full engineering stack: data engineering (dbt, Airflow, Snowflake), frontend (React, Next.js), financial analysis, document generation, DevOps, and more.
+This repository is a comprehensive **Agentic Engineering Skills Library** — a curated collection of 101 specialized AI agent skills managed via Antigravity. Skills cover the full engineering stack: data engineering (dbt, Airflow, Snowflake), frontend (React, Next.js), financial analysis, document generation, DevOps, and more.
 
 ## Core Agent Behavior & Interaction
 - **Progressive Disclosure:** Do not assume context. When interacting with this repository, always rely on the specialized skills stored in `.agents/skills/`. Read the `SKILL.md` of the relevant skill before executing complex tasks.
@@ -67,7 +67,7 @@ Skills are in `.agents/skills/`. Each has a `SKILL.md` with trigger descriptions
 When asked to perform a task, match it to the right category:
 
 - **dbt work** → skills starting with `creating-`, `debugging-`, `developing-`, `documenting-`, `migrating-sql-to-`, `refactoring-`, `testing-dbt-*`
-- **Airflow/DAGs** → `airflow`, `authoring-dags`, `debugging-dags`, `testing-dags`, `deploying-airflow`, `blueprint`, `airflow-hitl`, `airflow-plugins`
+- **Airflow/DAGs** → `airflow`, `authoring-dags`, `debugging-dags`, `testing-dags`, `deploying-airflow`, `blueprint`, `airflow-hitl`, `airflow-plugins`, `migrating-airflow-2-to-3`
 - **Astronomer** → `managing-astro-local-env`, `managing-astro-deployments`, `setting-up-astro-project`, `troubleshooting-astro-deployments`
 - **Cosmos + dbt** → `cosmos-dbt-core`, `cosmos-dbt-fusion`
 - **SQL/queries** → `sql-queries`, `finding-expensive-queries`, `optimizing-query-by-id`, `optimizing-query-text`

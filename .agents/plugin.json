@@ -1,7 +1,7 @@
 {
   "name": "skills",
   "version": "2.0.0",
-  "description": "Comprehensive agentic engineering skills library — 87+ specialized AI agent skills covering data engineering, frontend, financial analysis, document generation, DevOps, and more. Managed via Antigravity.",
+  "description": "Comprehensive agentic engineering skills library — 105 specialized AI agent skills covering data engineering, frontend, financial analysis, document generation, DevOps, and more. Managed via Antigravity.",
   "author": {
     "name": "miptah21"
   },
@@ -49,7 +49,8 @@
       "deploying-airflow",
       "testing-dags",
       "cosmos-dbt-core",
-      "cosmos-dbt-fusion"
+      "cosmos-dbt-fusion",
+      "migrating-airflow-2-to-3"
     ],
     "astronomer": [
       "managing-astro-local-env",
