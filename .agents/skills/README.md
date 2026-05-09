@@ -116,6 +116,9 @@
 | [prototype](prototype/SKILL.md) | Build throwaway terminal logic or UI variants to answer design questions |
 | [to-issues](to-issues/SKILL.md) | Break plans into independently-grabbable vertical slice GitHub issues |
 | [setup-pre-commit](setup-pre-commit/SKILL.md) | Husky, lint-staged, prettier, and typecheck hooks |
+| [triage](triage/SKILL.md) | Triage issues through a state machine of triage roles |
+| [zoom-out](zoom-out/SKILL.md) | Zoom out to give a broader context or high-level perspective |
+| [git-guardrails-claude-code](git-guardrails-claude-code/SKILL.md) | Block dangerous git commands (push, reset --hard) with hooks |
 
 ## Frontend & Web Development
 
@@ -155,6 +158,7 @@
 | [skill-writer](skill-writer/SKILL.md) | Create/author new SKILL.md files, skill structure |
 | [ag-md-improver](ag-md-improver/SKILL.md) | Audit and improve AGENTS.md files |
 | [caveman](caveman/SKILL.md) | Ultra-compressed communication mode. Cuts token usage ~75% |
+| [grill-me](grill-me/SKILL.md) | Relentless interviewing to resolve every branch of a decision tree |
 
 ## Background Knowledge (non-invocable)
 

@@ -24,7 +24,7 @@
     "devops",
     "observability"
   ],
-  "skills_count": 95,
+  "skills_count": 99,
   "skill_categories": {
     "dbt_snowflake": [
       "creating-dbt-models",
@@ -112,7 +112,10 @@
       "prototype",
       "to-issues",
       "setup-pre-commit",
-      "caveman"
+      "caveman",
+      "triage",
+      "zoom-out",
+      "git-guardrails-claude-code"
     ],
     "frontend_web": [
       "frontend-design",
@@ -130,7 +133,8 @@
       "deep-research",
       "agentic-eval",
       "skill-writer",
-      "ag-md-improver"
+      "ag-md-improver",
+      "grill-me"
     ],
     "infrastructure": [
       "cloud-finops",
