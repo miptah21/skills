@@ -50,7 +50,7 @@ AGENTS.md                    ← Master routing (Intent Gate + Ambiguity Check)
 ## 🚀 Usage
 
 ### Prerequisites
-- Any agentic assistant compatible with markdown-based instruction protocols (e.g., [Antigravity](https://antigravity.dev), [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code), [Cursor](https://cursor.sh), [Cline](https://github.com/cline/cline), [Codex](https://openai.com/index/openai-codex/), or [Smithery](https://smithery.ai)).
+- Any agentic assistant compatible with markdown-based instruction protocols (e.g., [Antigravity](https://antigravity.dev), [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code), [Cursor](https://cursor.sh), [Cline](https://github.com/cline/cline), or [Codex](https://openai.com/index/openai-codex/)).
 
 ### Installation
 1. Copy the `.agents/` directory into your project root.
