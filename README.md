@@ -69,9 +69,16 @@ npx skills@latest add miptah21/skills/frontend-design
 ```
 
 **Method 2: Manual Installation**
-1. Copy the `.agents/` directory into your project root.
+1. Copy the `.agents/` and `docs/` directories into your project root.
 2. Copy `AGENTS.md` to your project root (acts as the main rule/routing file for your AI).
 3. Your AI agent will automatically detect the registry and route your natural language requests to the appropriate skill.
+
+**Method 3: Setup via LLM Prompt (Easiest)**
+Copy and paste this prompt to your AI agent (Claude Code, Cursor, Cline, etc.) to have it set up the skills automatically:
+
+```text
+Please install the `miptah21/skills` library into this repository. Run `npx skills@latest add miptah21/skills` in the terminal to add the full collection. Once complete, verify the setup by confirming that the `.agents` folder and `AGENTS.md` file were created in the root directory. Also, ensure that you fetch the `docs/` directory from the repository as it contains the required agent conventions.
+```
 
 ## 🤝 Contributing
 
