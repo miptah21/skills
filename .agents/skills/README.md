@@ -148,6 +148,7 @@
 | [algorithmic-art](algorithmic-art/SKILL.md) | Generative art, p5.js, flow fields, particle systems |
 | [image-manipulation-image-magick](image-manipulation-image-magick/SKILL.md) | Image resize, convert, batch process via ImageMagick |
 | [prd](prd/SKILL.md) | Product Requirements Documents |
+| [edit-article](edit-article/SKILL.md) | Edit and improve articles, restructure sections |
 
 ## Research & Productivity
 
@@ -163,6 +164,7 @@
 | [writing-fragments](writing-fragments/SKILL.md) | Grilling session to mine for raw material and sharp ideas |
 | [writing-shape](writing-shape/SKILL.md) | Shape raw material into a drafted article, block by block |
 | [writing-beats](writing-beats/SKILL.md) | Choose-your-own-adventure style article generation from notes |
+| [obsidian-vault](obsidian-vault/SKILL.md) | Search, create, and manage notes in an Obsidian vault |
 
 ## Background Knowledge (non-invocable)
 

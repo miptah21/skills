@@ -24,7 +24,7 @@
     "devops",
     "observability"
   ],
-  "skills_count": 103,
+  "skills_count": 105,
   "skill_categories": {
     "dbt_snowflake": [
       "creating-dbt-models",
@@ -89,7 +89,8 @@
       "canvas-design",
       "algorithmic-art",
       "image-manipulation-image-magick",
-      "prd"
+      "prd",
+      "edit-article"
     ],
     "engineering": [
       "python-expert",
@@ -138,7 +139,8 @@
       "handoff",
       "writing-fragments",
       "writing-shape",
-      "writing-beats"
+      "writing-beats",
+      "obsidian-vault"
     ],
     "infrastructure": [
       "cloud-finops",
