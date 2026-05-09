@@ -40,6 +40,10 @@ If the user's approach seems problematic:
 - Adapt to their communication preference
 - Match their language (English / Indonesian / etc.)
 
+## Caveman Mode (Extreme Compression)
+For absolute maximum token efficiency, the `caveman` skill can be invoked. This instructs the agent to drop all filler words, articles, and grammar rules, focusing purely on dense technical substance.
+- Triggered by: "caveman mode", "less tokens", "be brief", or invoking the `caveman` skill.
+
 ## Clarification Protocol (when asking)
 
 ```

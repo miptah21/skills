@@ -44,7 +44,7 @@ When running terminal commands to analyze the workspace, you MUST prefix them wi
 ## Detailed Conventions
 See `docs/` for in-depth guides:
 - `docs/implementation-protocol.md` — Pre-impl checks, delegation, verification, failure recovery
-- `docs/communication-style.md` — Agent communication standards
+- `docs/communication-style.md` — Agent communication standards (includes Caveman mode)
 - `docs/rtk-optimization.md` — RTK command mapping reference
 - `docs/comment-policy.md` — When comments are acceptable vs unacceptable
 

@@ -53,7 +53,7 @@ AGENTS.md                    ← Master routing (Intent Gate + Ambiguity Check)
 
 See `docs/` for detailed guides:
 - `implementation-protocol.md` — Pre-implementation checks & verification
-- `communication-style.md` — Agent communication standards
+- `communication-style.md` — Agent communication standards (includes Caveman mode)
 - `rtk-optimization.md` — Token compression (60-90% reduction)
 - `comment-policy.md` — When comments are acceptable
 
