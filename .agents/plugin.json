@@ -1,7 +1,7 @@
 {
   "name": "skills",
   "version": "2.0.0",
-  "description": "Comprehensive agentic engineering skills library — 105 specialized AI agent skills covering data engineering, frontend, financial analysis, document generation, DevOps, and more. Managed via Antigravity.",
+  "description": "Comprehensive agentic engineering skills library \u2014 101 specialized AI agent skills covering data engineering, frontend, financial analysis, document generation, DevOps, and more. Managed via Antigravity.",
   "author": {
     "name": "miptah21"
   },
@@ -24,7 +24,7 @@
     "devops",
     "observability"
   ],
-  "skills_count": 105,
+  "skills_count": 101,
   "skill_categories": {
     "dbt_snowflake": [
       "creating-dbt-models",
@@ -149,5 +149,13 @@
       "data-governance",
       "rca-diagnostics"
     ]
-  }
+  },
+  "internal_skills": [
+    "senior-data-engineer",
+    "knowledge-synthesis",
+    "search-strategy"
+  ],
+  "deprecated_skills": [
+    "sql-optimization"
+  ]
 }
