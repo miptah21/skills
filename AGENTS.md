@@ -1,7 +1,7 @@
 # Antigravity AGENTS.md
 
 ## Project Overview
-This repository is a comprehensive **Agentic Engineering Skills Library** — a curated collection of 87+ specialized AI agent skills managed via Antigravity. Skills cover the full engineering stack: data engineering (dbt, Airflow, Snowflake), frontend (React, Next.js), financial analysis, document generation, DevOps, and more.
+This repository is a comprehensive **Agentic Engineering Skills Library** — a curated collection of 105 specialized AI agent skills managed via Antigravity. Skills cover the full engineering stack: data engineering (dbt, Airflow, Snowflake), frontend (React, Next.js), financial analysis, document generation, DevOps, and more.
 
 ## Core Agent Behavior & Interaction
 - **Progressive Disclosure:** Do not assume context. When interacting with this repository, always rely on the specialized skills stored in `.agents/skills/`. Read the `SKILL.md` of the relevant skill before executing complex tasks.
@@ -75,10 +75,10 @@ When asked to perform a task, match it to the right category:
 - **Lineage** → `tracing-upstream-lineage`, `tracing-downstream-lineage`, `annotating-task-lineage`, `creating-openlineage-extractors`
 - **Observability** → `data-observability`, `checking-freshness`, `profiling-tables`, `warehouse-init`
 - **Finance** → `analyzing-financial-statements`, `creating-financial-models`, `variance-analysis`, `reconciliation`
-- **Documents** → `docx`, `pptx`, `pdf`, `xlsx`, `excalidraw-diagram-generator`, `canvas-design`, `algorithmic-art`, `image-manipulation-image-magick`, `prd`
-- **Engineering** → `python-expert`, `clean-code`, `refactor`, `ci-cd-pipeline-builder`, `git-workflow`, `pr-review-expert`, `tech-debt-tracker`, `dependency-auditor`, `security-auditor`, `performance-profiler`, `uv-package-manager`, `worktree-manager`, `database-design`
+- **Documents** → `docx`, `pptx`, `pdf`, `xlsx`, `excalidraw-diagram-generator`, `canvas-design`, `algorithmic-art`, `image-manipulation-image-magick`, `prd`, `edit-article`
+- **Engineering** → `python-expert`, `clean-code`, `refactor`, `ci-cd-pipeline-builder`, `git-workflow`, `pr-review-expert`, `tech-debt-tracker`, `dependency-auditor`, `security-auditor`, `performance-profiler`, `uv-package-manager`, `worktree-manager`, `database-design`, `improve-codebase-architecture`, `tdd`, `diagnose`, `prototype`, `to-issues`, `setup-pre-commit`, `caveman`, `triage`, `zoom-out`, `git-guardrails-claude-code`, `grill-with-docs`
 - **Frontend/Web** → `frontend-design`, `web-design-guidelines`, `react-patterns`, `react-useeffect`, `nextjs-best-practices`, `seo-optimizer`, `payload`, `playwright`, `webapp-testing`, `chrome-devtools`
-- **Research** → `deep-research`, `agentic-eval`, `skill-writer`, `ag-md-improver`
+- **Research & Productivity** → `deep-research`, `agentic-eval`, `skill-writer`, `ag-md-improver`, `grill-me`, `handoff`, `writing-fragments`, `writing-shape`, `writing-beats`, `obsidian-vault`
 - **Infrastructure** → `cloud-finops`, `pipeline-orchestration`, `data-governance`, `rca-diagnostics`
 
 ### Workflow Triggers

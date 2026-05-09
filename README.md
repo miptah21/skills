@@ -1,6 +1,6 @@
 # 🧠 Agentic Engineering Skills Library
 
-A curated collection of **87+ specialized AI agent skills** for [Antigravity](https://antigravity.dev), an advanced agentic AI coding assistant. Skills cover the full engineering stack — from data engineering to frontend development to financial analysis.
+A curated collection of **105 specialized AI agent skills** for [Antigravity](https://antigravity.dev), an advanced agentic AI coding assistant. Skills cover the full engineering stack — from data engineering to frontend development to financial analysis.
 
 ## 🏗️ Architecture
 
@@ -24,17 +24,17 @@ AGENTS.md                    ← Master routing (Intent Gate + Ambiguity Check)
 
 | Category | Skills | Highlights |
 |----------|--------|------------|
-| **Data Engineering** | 17 | dbt, Snowflake, SQL queries, incremental models |
+| **Data Engineering** | 11 | dbt, Snowflake, SQL queries, incremental models |
 | **Orchestration** | 10 | Airflow, Blueprint, Cosmos, DAG testing |
 | **Astronomer** | 4 | Astro CLI, deployments, local env |
 | **Data Analysis** | 5 | Statistics, visualization, storytelling, Power BI |
 | **Lineage & Observability** | 8 | OpenLineage, freshness, profiling |
 | **Finance** | 4 | DCF, variance analysis, reconciliation |
-| **Documents** | 9 | docx, pptx, pdf, xlsx, Excalidraw, canvas |
-| **Engineering** | 13 | Python, CI/CD, git, security, refactoring |
+| **Documents** | 10 | docx, pptx, pdf, xlsx, Excalidraw, canvas, edit-article |
+| **Engineering** | 24 | Python, CI/CD, git, security, refactoring, TDD, architecture |
 | **Frontend/Web** | 10 | React, Next.js, Payload CMS, SEO, Playwright |
-| **Research** | 4 | Deep research, agentic eval, skill writer |
-| **Infrastructure** | 3 | FinOps, governance, RCA diagnostics |
+| **Research & Productivity** | 10 | Deep research, writing pipeline, Obsidian, handoffs |
+| **Infrastructure** | 4 | FinOps, governance, RCA diagnostics |
 
 ## 🎯 Design Principles
 
